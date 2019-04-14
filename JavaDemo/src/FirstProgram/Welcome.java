@@ -7,7 +7,7 @@ public class Welcome {
 		 int a=10;
 		 int b=89;
 		 int result=a+b;
-		 System.out.println("result="+result);
+		 System.out.println("result="+result); //Print statement
 	}
 
 }//welcome class close 
