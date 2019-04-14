@@ -10,4 +10,4 @@ public class Welcome {
 		 System.out.println("result="+result);
 	}
 
-}
+}//welcome class close 
