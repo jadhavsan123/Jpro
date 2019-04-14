@@ -8,6 +8,6 @@ public class Welcome {
 		 int b=89;
 		 int result=a+b;
 		 System.out.println("result="+result); //Print statement
-	}// main method close
+	}// main method 
 
 }//welcome class close 
